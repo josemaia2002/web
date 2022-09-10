@@ -1,0 +1,29 @@
+h1 {
+	color: navy;
+	background-color: red;
+}
+
+h2 {
+	color: red;
+}
+
+li {
+	color: brown;
+}
+
+p {
+	font-size: medium;
+	color: royalblue;
+}
+
+.special {
+	color: red;
+}
+
+.box {
+	margin: 30px;
+	width: 50px;
+	height: 100px;
+	background-color: rebeccapurple;
+	transform: rotate(45deg);
+}
