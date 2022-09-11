@@ -26,3 +26,14 @@ p {
 	background-color: rebeccapurple;
 	color: white;
 }
+
+body {
+	background-color: pink;
+}
+
+@media (min-width: 80em) {
+	body {
+		background-color: blue;
+		font-size: 130%;
+	}
+}
