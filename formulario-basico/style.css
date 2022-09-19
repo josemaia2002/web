@@ -13,3 +13,7 @@
     flex-direction: column;
     justify-content: space-between;    
   }
+
+  body {
+    font-family:'Times New Roman', Times, serif;
+  }
